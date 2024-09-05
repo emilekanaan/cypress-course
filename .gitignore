@@ -42,3 +42,5 @@ cypress/results/*
 cypress/reports/*
 cypress/screenshots/*
 cypress/videos/*
+# Cypress downloads folder
+cypress/downloads/
